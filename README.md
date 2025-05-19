@@ -58,6 +58,7 @@ Opens: [http://localhost:5173](http://localhost:5173)
 
 
 ##📌 Notes
+
 This project expects a backend to be running at http://localhost:8000, based on the assignment specs.
 The API must expose endpoints like /payments and /payments/:id.
 
